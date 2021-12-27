@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 92, 64);
+}
+
+main{
+
+}
+
+p{
+    background-color: turquoise;
+    color: rgb(0, 0, 0);
+    border-radius: 1rem;
+
+    margin: 1rem;
+    text-align: center;
+    font-size:xx-large;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
